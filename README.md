@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MySQL, PHPMyAdmin and Node.js (ready for Express development)
 
 This will install Mysql and phpmyadmin (including all dependencies to run Phpmyadmin) AND node.js
@@ -56,3 +57,7 @@ Once in the database container, you can get a MySQL CLI in the usual way
 ```bash
 mysql -uroot -p<password> 
 ```
+=======
+# softeng
+Software engineering
+>>>>>>> ec8a021958be4a1fb764beab61c8e8463486c7b3
